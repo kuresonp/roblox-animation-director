@@ -1,5 +1,0 @@
-If a car, truck, bus, motorcycle, emergency vehicle, boat, aircraft, or other vehicle appears, use the high-quality recognizable vehicle using code rig and procedural 3D construction use.
-
-Create important props as complete, purpose-built assets rather than generic cubes. A phone, weapon, tool, camera, document, suitcase, machine, sign, piece of furniture, appliance, or instrument should have a recognizable silhouette, appropriate dimensions, functional parts, material separation, 
-
-Use procedural geometry, layered meshes, curves, bevels, textures, decals, labels, fasteners, controls, seams, handles, hinges, and small secondary details when they improve recognition or storytelling. Props that characters hold or operate must be sized correctly and have clear interaction points.
